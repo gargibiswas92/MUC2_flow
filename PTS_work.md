@@ -9,8 +9,8 @@ Initially each of the sugar chains were represented as four-bead chains, and the
 ### __Starting structures__
 
 the initial structure with which the simulation was started are as follows:
-<div style="display: flex; justify-content: space-between;">
-    <div>
+<div style="display: flex;">
+    <div style="flex: 33.33%; padding: 10px;">
         <h2>0% glycosylation</h2>
         <img src="GLY.DEGREE/sugar_0.00.png" alt="Image 1" style="width: 100%;">
     </div>
