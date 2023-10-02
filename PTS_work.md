@@ -20,20 +20,6 @@ As the simulations progressed in all of the cases we see the structures become m
 
 | <img src="GLY.DEGREE/sugar_0.00_last.png" alt="Image 1" style="width: 33.33%;"> | <img src="GLY.DEGREE/sugar_0.40_last.png" alt="Image 2" style="width: 33.33%;"> | <img src="GLY.DEGREE/sugar_0.80_last.png" alt="Image 3" style="width: 33.33%;"> 
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <h2>0% glycosylation</h2>
-        <img src="GLY.DEGREE/sugar_0.00_last.png" alt="Image 1" style="width: 100%;">
-    </div>
-    <div>
-        <h2>40% glycosylation</h2>
-        <img src="GLY.DEGREE/sugar_0.40_last.png" alt="Image 2" style="width: 100%;">
-    </div>
-    <div>
-        <h2>80% glycosylation</h2>
-        <img src="GLY.DEGREE/sugar_0.80_last.png" alt="Image 2" style="width: 100%;">
-    </div>
-</div>
 
 ### __Radius of gyration and density of protein beads__
 
