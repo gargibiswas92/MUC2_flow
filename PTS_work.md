@@ -18,6 +18,8 @@ the initial structure with which the simulation was started are as follows:
 
 As the simulations progressed in all of the cases we see the structures become more expanded as follows,
 
+| <img src="GLY.DEGREE/sugar_0.00_last.png" alt="Image 1" style="width: 33.33%;"> | <img src="GLY.DEGREE/sugar_0.40_last.png" alt="Image 2" style="width: 33.33%;"> | <img src="GLY.DEGREE/sugar_0.80_last.png" alt="Image 3" style="width: 33.33%;"> 
+
 <div style="display: flex; justify-content: space-between;">
     <div>
         <h2>0% glycosylation</h2>
